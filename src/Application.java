@@ -15,8 +15,7 @@ public class Application
 		 * s2.firstTimePlaying = true;
 		 */
 		
-		Voetbal voetbal = new Voetbal();
-		voetbal.bepaalPrijs();
+		System.out.println("Toevoegen om git te testen");
 
 	}
 
